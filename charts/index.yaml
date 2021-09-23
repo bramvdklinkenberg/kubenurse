@@ -3,12 +3,12 @@ entries:
   kubeburse:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2021-09-23T23:35:37.425559+02:00"
+    created: "2021-09-23T23:53:19.17257+02:00"
     description: A Helm chart for Kubernetes to deploy kubenurse
     digest: a530a1a48b130baa16eaa3fd424ee46694b38d662fd3f6be946a4ab544e66592
     icon: https://avatars.githubusercontent.com/u/34368733
     name: kubeburse
     urls:
-    - https://github.com/bramvdklinkenberg/kubenurse/kubeburse-0.1.0.tgz
+    - https://github.com/bramvdklinkenberg/kubenurse/charts/kubeburse-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-23T23:35:37.424036+02:00"
+generated: "2021-09-23T23:53:19.160621+02:00"
