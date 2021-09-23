@@ -27,6 +27,7 @@ rules:
   - get
   - list
   - watch
+# Create clusterrole and clusterrolebinding when allow_unschedulable is enabled
 {{- if .Values.rbac.allow_unschedulable.enabled }}
 ---
 apiVersion: rbac.authorization.k8s.io/v1
